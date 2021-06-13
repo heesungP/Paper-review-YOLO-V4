@@ -7,7 +7,7 @@
 
 ### - YOLO-V4 Paper : https://arxiv.org/abs/2004.10934
 ### - Author YOLO-V4 github : https://github.com/AlexeyAB/darknet
-### - Custom dataset  YOLO-V4 implementation (train, test, evaluation) : 
+### - Custom dataset  YOLO-V4 implementation (train, test, evaluation) : [Link][1]
  -> made by HeeSungP, in Colab, with author's C code
 ### - HeeSungP's presentation material (pdf, Korean) : [YOLO-V4_HeeSungP-SSL.pdf](https://github.com/HeeSungP/Paper-review-YOLO-V4/files/6526067/YOLO-V4_HeeSungP-SSL.pdf)
 
@@ -32,3 +32,6 @@
  -> https://arxiv.org/abs/2002.05712
 #### - Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
  -> https://ieeexplore.ieee.org/abstract/document/7005506?casa_token=uaAbG2H7U1UAAAAA:ZFraVsf7xy-cY4A1Nv3oBrENzdJ0AAhNjwqgF98tFGk67zusTbAon1BdPqTs4rkiLrTK6LR5gA
+
+
+[1]:https://colab.research.google.com/drive/1pW_32rglHUImXLlqcqrkWnejhn3wwu4M?usp=sharing
