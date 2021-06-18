@@ -1,5 +1,9 @@
 # Paper-review-YOLO-V4
 
+### - Paper : [Yolov4: Optimal speed and accuracy of object detection]
+### - Author : Bochkovskiy, A., Wang, C. Y., & Liao, H. Y. M.
+### - Cite as : arXiv preprint arXiv:2004.10934. (2020).
+
 
 ![image](https://user-images.githubusercontent.com/67678405/119102035-92551200-ba54-11eb-8f7f-97a55e0e54f3.png)
 <div style="text" align="center"> - YOLO-V4 structure diagram drawn by HeeSungP - </div>
