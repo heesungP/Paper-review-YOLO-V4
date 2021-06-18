@@ -2,13 +2,14 @@
 
 
 ![image](https://user-images.githubusercontent.com/67678405/119102035-92551200-ba54-11eb-8f7f-97a55e0e54f3.png)
+<div style="text" align="center"> - YOLO-V4 structure diagram drawn by HeeSungP - </div>
 
 # ■ Information
 
 ### - YOLO-V4 Paper : https://arxiv.org/abs/2004.10934
 ### - Author YOLO-V4 github : https://github.com/AlexeyAB/darknet
-### - Custom dataset  YOLO-V4 implementation (train, test, evaluation) : [Link][1]
- -> made by HeeSungP, in Colab, with author's C code
+### - Custom dataset  YOLO-V4 implementation in Colab (train, test, evaluation) : [Link][1]
+ -> made by HeeSungP with author's C code
 ### - HeeSungP's presentation material (pdf, Korean) : [YOLO-V4_HeeSungP-SSL.pdf](https://github.com/HeeSungP/Paper-review-YOLO-V4/files/6526067/YOLO-V4_HeeSungP-SSL.pdf)
 
 ---
